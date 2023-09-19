@@ -29,7 +29,8 @@ TF-IDF
 
 TF-IDF, or Term Frequency-Inverse Document Frequency, is a numerical statistic used in natural language processing and information retrieval to evaluate the importance of a word within a document relative to a collection of documents, often called a corpus. TF-IDF is a commonly used technique for feature engineering and text analysis, especially in tasks like document retrieval, text classification, and information retrieval.
 
-Evaluation of Test Classification result for TFIDF
+Evaluation of Test Classification result for TFIDF:
+
 SVC 
 F1 Score:  0.937527114967462
 
@@ -51,7 +52,8 @@ F1 Score:  0.9027374533388635
 ![download (6)](https://github.com/drajasekar/Toxic-Tweets/assets/44079369/23563061-ceb2-44ea-8e0f-31f43df961e2)
 
 
-Evaluation of Test Classification result for Bag of words
+Evaluation of Test Classification result for Bag of words:
+
 SVC
 F1 Score:  0.9303318041182119
 
